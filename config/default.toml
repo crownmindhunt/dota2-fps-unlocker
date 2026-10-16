@@ -1,0 +1,16 @@
+# dota2-fps-unlocker :: default config
+# copy to config/user.toml and edit
+
+preset = "competitive"
+overlay = true
+overlay_position = "top-right"
+hotkey_toggle_overlay = 0x77   # F8
+hotkey_restore_defaults = 0x78 # F9
+
+render_threads = 8
+fps_uncap = true
+skip_intro_movies = true
+
+[plugins]
+console_pipe = true
+overlay_render = true

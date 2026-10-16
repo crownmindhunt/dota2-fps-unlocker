@@ -1,0 +1,8 @@
+{
+  "name": "console_pipe",
+  "version": "0.4.2",
+  "target": "dota2.exe",
+  "description": "Sends cvar commands to the Dota 2 console pipe without touching input focus.",
+  "author": "dota2-fps-unlocker contributors",
+  "enabled": true
+}

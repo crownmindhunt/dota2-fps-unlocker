@@ -1,0 +1,28 @@
+# build
+build/
+out/
+cmake-build-*/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# visual studio
+.vs/
+*.vcxproj.user
+*.sln.docstates
+
+# config / runtime
+config/user.toml
+logs/
+*.log
+
+# test artifacts
+test_cfg.toml
+
+# misc
+.DS_Store
+Thumbs.db
+*.swp
+</>

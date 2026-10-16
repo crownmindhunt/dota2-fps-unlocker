@@ -1,0 +1,10 @@
+[console_pipe]
+enabled = true
+pipe_name = "\\\\.\\pipe\\dota2_console"
+timeout_ms = 250
+
+[overlay_render]
+enabled = true
+font = "consola.ttf"
+font_size = 14
+show_draw_calls = false
